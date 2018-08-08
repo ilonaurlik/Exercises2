@@ -1,3 +1,4 @@
+# Exercises02
 01) Check if the word is a palindrome.
 02) Write odd numbers in given range.
 03) Write prime numbers in given range (sieve of Eratosthenes).
